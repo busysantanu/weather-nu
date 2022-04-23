@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-nu/static/css/main.794bb2cd.css",
+    "main.js": "/weather-nu/static/js/main.8ff222d8.js",
+    "static/js/787.96513e2b.chunk.js": "/weather-nu/static/js/787.96513e2b.chunk.js",
+    "index.html": "/weather-nu/index.html",
+    "main.794bb2cd.css.map": "/weather-nu/static/css/main.794bb2cd.css.map",
+    "main.8ff222d8.js.map": "/weather-nu/static/js/main.8ff222d8.js.map",
+    "787.96513e2b.chunk.js.map": "/weather-nu/static/js/787.96513e2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.794bb2cd.css",
+    "static/js/main.8ff222d8.js"
+  ]
+}
