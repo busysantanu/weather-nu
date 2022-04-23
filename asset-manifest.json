@@ -1,15 +1,15 @@
 {
-  "main.css": "/weather-nu/static/css/main.48c29dfd.chunk.css",
-  "main.js": "/weather-nu/static/js/main.eea4993d.chunk.js",
-  "main.js.map": "/weather-nu/static/js/main.eea4993d.chunk.js.map",
+  "main.css": "/weather-nu/static/css/main.b16d2bb2.chunk.css",
+  "main.js": "/weather-nu/static/js/main.f5e33dde.chunk.js",
+  "main.js.map": "/weather-nu/static/js/main.f5e33dde.chunk.js.map",
   "static/js/1.206e060b.chunk.js": "/weather-nu/static/js/1.206e060b.chunk.js",
   "static/js/1.206e060b.chunk.js.map": "/weather-nu/static/js/1.206e060b.chunk.js.map",
   "static/js/2.9dcbff2a.chunk.js": "/weather-nu/static/js/2.9dcbff2a.chunk.js",
   "static/js/2.9dcbff2a.chunk.js.map": "/weather-nu/static/js/2.9dcbff2a.chunk.js.map",
   "runtime~main.js": "/weather-nu/static/js/runtime~main.e8ef4f8e.js",
   "runtime~main.js.map": "/weather-nu/static/js/runtime~main.e8ef4f8e.js.map",
-  "static/css/main.48c29dfd.chunk.css.map": "/weather-nu/static/css/main.48c29dfd.chunk.css.map",
+  "static/css/main.b16d2bb2.chunk.css.map": "/weather-nu/static/css/main.b16d2bb2.chunk.css.map",
   "index.html": "/weather-nu/index.html",
-  "precache-manifest.eb7595290aea3f5ea546e94e5e6666ac.js": "/weather-nu/precache-manifest.eb7595290aea3f5ea546e94e5e6666ac.js",
+  "precache-manifest.5bf4a5609a3532afd886dfd350bd50d6.js": "/weather-nu/precache-manifest.5bf4a5609a3532afd886dfd350bd50d6.js",
   "service-worker.js": "/weather-nu/service-worker.js"
 }
