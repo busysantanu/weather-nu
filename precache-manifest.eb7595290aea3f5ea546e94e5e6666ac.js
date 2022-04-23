@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/weather-nu/static/js/runtime~main.e8ef4f8e.js"
   },
   {
-    "revision": "16352feb2bbe947b9d13c0acdf7ffe4d",
+    "revision": "08879454e693885cd980187a62757175",
     "url": "/weather-nu/index.html"
   }
 ];
