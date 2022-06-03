@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f5e33ddee796950beec7",
-    "url": "/weather-nu/static/css/main.b16d2bb2.chunk.css"
+    "revision": "4ca543787691b365a82e",
+    "url": "/weather-nu/static/css/main.3fce229d.chunk.css"
   },
   {
-    "revision": "f5e33ddee796950beec7",
-    "url": "/weather-nu/static/js/main.f5e33dde.chunk.js"
+    "revision": "4ca543787691b365a82e",
+    "url": "/weather-nu/static/js/main.4ca54378.chunk.js"
   },
   {
     "revision": "206e060bd7d3afd2158d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/weather-nu/static/js/runtime~main.e8ef4f8e.js"
   },
   {
-    "revision": "a6a2f994261e66af8ab068d390a20992",
+    "revision": "77a6b8186cb9e6516ce23804fbfbea16",
     "url": "/weather-nu/index.html"
   }
 ];
